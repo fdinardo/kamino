@@ -1,6 +1,8 @@
 Kamino
 ======
 
+![alt tag](https://raw.githubusercontent.com/fdinardo/kamino/master/gnome-shell/preview.jpg)
+
 Kamino is a gnome-shell theme. Kamino is a Star Wars planet. It is famous for work of cloning, like my theme that was inspired by Faience theme and eOS theme.
 
 Current version of Kamino is aviable only for gnome 3.8.
