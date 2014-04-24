@@ -1,0 +1,10 @@
+{
+	"shell-theme" : {
+		"name" : "Kamino",
+		"author" : "Francesco Di Nardo",
+		"descriptio" : "The theme name is picked from a Star Wars world. Kamino is famous for its work of cloning, as well as this theme has cloned others.",
+		"version" : "1.1",
+		"type" : "custom",
+		"thumbnail" : "preview.jpg",
+	}
+}
